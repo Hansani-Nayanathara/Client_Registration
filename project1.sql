@@ -46,7 +46,6 @@ CREATE TABLE `registration` (
 --
 
 INSERT INTO `registration` (`Name`, `Email`, `Address`, `Phone_Number`, `Password`, `Re_Password`, `Profile_photo`, `How_hear`, `Recommandation`, `Agree_Term`, `OTP`) VALUES
-('Hansani Albuker', 'hansani@gmail.com', 'Dompe', 112345678, 'Password@123', 'Password@123', 'FB_IMG_1650595269926.jpg', 'institue or university', 'yes', 1, NULL),
 ('Lesly Prasad', 'lesly@gmail.com', 'Gampaha', 114587296, 'Password@123', 'Password@123', 'FB_IMG_1655057308062.jpg', 'linkedin', 'yes', 1, '388100'),
 ('Nayanthara', 'hansani@gmail.com', 'Dompe', 112345678, 'Password@123', 'Password@123', 'FB_IMG_1651549900261.jpg', 'linkedin', 'no', 1, NULL);
 
